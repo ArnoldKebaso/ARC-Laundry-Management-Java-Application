@@ -3,9 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/WebApplication3/web/index.html</file>
-            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/WebApplication3/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/WebApplication3/src/java/MyServlet.java</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/web/order_details.jsp</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/web/student_address.jsp</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/src/java/business/User.java</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/src/java/data/UserIO.java</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/src/java/OrderDetailsServlet.java</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/src/java/Address.java</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/web/index.html</file>
+            <file>file:/C:/Program%20Files/Apache%20Software%20Foundation/Tomcat%2010.1/conf/Catalina/localhost/webapps/LaundrySystem/src/java/Registration.java</file>
         </group>
     </open-files>
 </project-private>
